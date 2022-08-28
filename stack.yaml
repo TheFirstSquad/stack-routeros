@@ -4,9 +4,9 @@ display-name: "Stack RouterOS"
 picture: stack.png
 category: "Backend"
 compatibility:
-  - Java
+  - "Java"
 technologies:
-  - Docker
+  - "Java"
 about: docs/about.md
 use-cases:
   - title: "Default"
