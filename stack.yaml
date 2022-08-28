@@ -2,11 +2,9 @@ description: Stack test environment to practice rules on RouterOS
 name: stack-routeros
 display-name: "Stack RouterOS"
 picture: stack.png
-category: backend
-compatibility:
-  - java
-technologies:
-  - docker 
+category: "backend"
+compatibility: ["java"]
+technologies: ["docker"]
 about: docs/about.md
 use-cases:
   - title: Use Case Title
