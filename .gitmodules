@@ -1,0 +1,3 @@
+[submodule "template-routeros-default"]
+	path = template-routeros-default
+	url = https://github.com/TheFirstSquad/template-routeros-default

@@ -1,12 +1,12 @@
-description: Stack test environment to practice rules on RouterOS
+description: "Stack test environment to practice rules on RouterOS"
 name: stack-routeros
 display-name: "Stack RouterOS"
 picture: stack.png
-category: "backend"
+category: "Backend"
 compatibility: ["java"]
 technologies: ["docker"]
 about: docs/about.md
 use-cases:
-  - title: Use Case Title
+  - title: "Default"
     content: docs/use-case.md
     stackfile: stackfiles/default.yaml
