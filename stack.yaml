@@ -2,11 +2,10 @@ description: Stack test environment to practice rules on RouterOS
 name: stack-routeros
 display-name: "Stack RouterOS"
 picture: stack.png
-category: backend # Ref: https://docs.stackspot.com/latest/docs/creators-guide/yaml/#category
-compatibility: # Put a list of technologies compatible with the stack
+category: backend
+compatibility:
   - java
-  - spring
-technologies: # Ref: https://docs.stackspot.com/latest/docs/creators-guide/yaml/#technologies 
+technologies:
   - docker 
 about: docs/about.md
 use-cases:
