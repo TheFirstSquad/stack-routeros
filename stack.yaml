@@ -3,10 +3,8 @@ name: stack-routeros
 display-name: "Stack RouterOS"
 picture: stack.png
 category: "Backend"
-compatibility:
-  - "Java"
-technologies:
-  - "Java"
+compatibility: ["Docker", "Unix", "RouterOS"]
+technologies: ["Docker", "API"]
 about: docs/about.md
 use-cases:
   - title: "Default"
